@@ -4,8 +4,7 @@
 
 🧰 Toolbox
 
-<img src = "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg"  alt = "PythonLogo" width = "50" height = "50"/>
-
+<img src = "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg"  alt = "PythonLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/imagenet.svg" alt = "ImageNetLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt = "PyTorchLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt = "TensorFlowLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" alt = "SkLearnLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt = "PandasLogo" width = "50" height = "50"/><img src  = "https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg" alt = "NumpyLogo" width = "50" height = "50"/>
 <!--
 **treese41528/treese41528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
