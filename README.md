@@ -1,5 +1,9 @@
-### Hi there 👋
+### I am a Ph.D. student at Purdue University in the department of Statistics
 
+---
+
+🧰 Toolbox
+< img src = "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt = "PythonLogo" width = "50" height = "50"> 
 <!--
 **treese41528/treese41528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
