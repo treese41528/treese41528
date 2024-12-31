@@ -1,4 +1,4 @@
-### I am a Ph.D. student at Purdue University in the department of Statistics
+### I serve as an Assistant Professor of Practice in the Department of Statistics at Purdue University.
 
 ---
 
